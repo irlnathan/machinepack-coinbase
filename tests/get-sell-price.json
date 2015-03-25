@@ -1,0 +1,10 @@
+{
+  "machine": "get-sell-price",
+  "expectations": [
+    {
+      "todo": true,
+      "using": {},
+      "outcome": "success"
+    }
+  ]
+}
