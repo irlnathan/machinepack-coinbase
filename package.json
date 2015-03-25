@@ -28,6 +28,9 @@
     "iconSrc": "https://s3-us-west-1.amazonaws.com/machinepack-icons/machinepack_coinbase.png",
     "friendlyName": "Coinbase",
     "machineDir": "machines/",
-    "machines": []
+    "machines": [
+      "get-buy-price",
+      "get-sell-price"
+    ]
   }
 }
