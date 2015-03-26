@@ -1,6 +1,6 @@
 {
   "name": "machinepack-coinbase",
-  "version": "0.1.2",
+  "version": "0.1.5",
   "description": "Communicate with the Coinbase API to get bitcoin index prices.",
   "scripts": {
     "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
