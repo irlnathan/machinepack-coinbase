@@ -29,7 +29,8 @@ module.exports = {
     },
 
     success: {
-      description: {
+      description: 'Returns the current the price to buy a bitcoin.',
+      example: {
         "btc": {
           "amount": "1.00000000",
           "currency": "BTC"

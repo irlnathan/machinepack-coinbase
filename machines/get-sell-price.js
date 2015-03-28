@@ -1,7 +1,7 @@
 module.exports = {
 
 
-  friendlyName: 'Get buy price',
+  friendlyName: 'Get sell price',
 
 
   description: 'Total price to sell some amount of bitcoin.',
@@ -29,7 +29,8 @@ module.exports = {
     },
 
     success: {
-      description: {
+      description: 'Returns the current the price to buy a bitcoin.',
+      example: {
         "subtotal": {
           "amount": "9.90",
           "currency": "USD"
